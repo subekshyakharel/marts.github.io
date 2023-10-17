@@ -1,0 +1,33 @@
+.main
+{
+    background: #103755;
+    line-height: 50px;
+    ul 
+    {
+        display: flex;
+        gap: 20px;
+        list-style: none;
+    }
+    a 
+    {
+        text-decoration: none;
+        color: white;
+        text-transform: uppercase;
+        font-size: 10px;
+    }
+}
+
+footer
+{
+    ul 
+    {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+}
+.mm
+{
+    height: 200px;
+    object-fit: contain;
+}
